@@ -1,18 +1,9 @@
 class SortData:
 
-    def pars_loop(self):
+    def parse_loop(self):
         pass
 
     def _apply_tags(self):
-        pass
-
-    def parse_IBAN(self):
-        pass
-
-    def parse_date(self):
-        pass
-
-    def parse_description(self):
         pass
 
     def append_to_month(self):
